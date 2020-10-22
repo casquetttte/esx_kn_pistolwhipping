@@ -1,2 +1,6 @@
 # esx_kn_pistolwhipping
-Disable Pistol Whipping / Désactive les coups de crosse
+[EN]
+Disable Pistol Whipping
+
+[FR]
+Désactive les coups de crosse
